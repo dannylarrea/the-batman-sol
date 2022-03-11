@@ -45,6 +45,28 @@ iframe {
     font-family: 'BhuTuka Expanded One', cursive;
 }
 
+img {
+    width: 100%;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding: 12px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 /* Diseño Responsive */
 
